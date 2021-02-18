@@ -8,7 +8,7 @@
 - 😄 Pronouns: him/they
 - 🔭 I’m currently working on [Houseannor](https://top.gg/bot/621597193383575552)!
 
-<img src="https://discordbots.org/api/widget/621597193383575552.svg"/>
+<img align="middle" src="https://discordbots.org/api/widget/621597193383575552.svg"/>
 
 <!--
 **haroongames-git/haroongames-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
