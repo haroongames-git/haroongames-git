@@ -8,8 +8,8 @@
 - 😄 Pronouns: him/they
 - 🔭 I’m currently working on [Houseannor](https://top.gg/bot/621597193383575552)!
 
-<a href="https://top.gg/bot/621597193383575552"><img alt="Invite Houseannor to your Discord server" src="https://discordbots.org/api/widget/621597193383575552.svg"/></a>          
-<a href="https://discord.gg/SmN9Kkf"><img alt="Join the Houseannor Community server" src="https://discord.com/api/guilds/705748846248067132/widget.png?style=banner4"/></a>
+<a href="https://top.gg/bot/621597193383575552"><img alt="Invite Houseannor to your Discord server" src="https://discordbots.org/api/widget/621597193383575552.svg?cache=off"/></a>          
+<a href="https://discord.gg/SmN9Kkf"><img alt="Join the Houseannor Community server" src="https://discord.com/api/guilds/705748846248067132/widget.png?style=banner4?cache=off"/></a>
 
 <!--
 **haroongames-git/haroongames-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
