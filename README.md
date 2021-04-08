@@ -6,7 +6,7 @@
 - 📫 How to reach me: I'm mostly active on the Houseannor Community server; join it [here](https://discord.gg/SmN9Kkf)!
 - 💬 Ask me about `node.js`
 - 😄 Pronouns: him/they
-- 🔭 I’m currently working on [Houseannor](https://top.gg/bot/621597193383575552)!
+- 🔭 I’m currently working on [Houseannor](https://top.gg/bot/621597193383575552) and the [Houseannor Funkin' Mod](https://github.com/haroongames-git/HouseannorFNFMod)!
 
 <a href="https://top.gg/bot/621597193383575552"><img alt="Invite Houseannor to your Discord server" src="https://discordbots.org/api/widget/621597193383575552.svg?cache=off"/></a>          
 <a href="https://discord.gg/SmN9Kkf"><img alt="Join the Houseannor Community server" src="https://discord.com/api/guilds/705748846248067132/widget.png?style=banner4&cache=off"/></a>
